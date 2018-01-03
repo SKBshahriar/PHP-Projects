@@ -1,0 +1,163 @@
+.form-control
+{
+    display: block;
+    width: 55%;
+    height: 50px;
+    padding: 6px 12px;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 3px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    margin-bottom: 10px;
+}
+
+
+.function_div
+{
+    position: fixed;
+    top: 20%;
+    left: 0%;
+    width:35em;
+    height:80em;
+   // background: gainsboro;
+   
+}
+.function_div2
+{
+    position: fixed;
+    top: 20%;
+    left: 80%;
+    width:35em;
+    height:80em;
+}
+.button_div
+{
+    position: fixed;
+    top: 30%;
+    left: 5%;
+    width:35em;
+    height:80em;
+}
+.search
+{
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    width:70em;
+    height:5em;
+}
+.search_button
+{
+    position: absolute;
+    left: 15%;
+    width: 20%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.myButton {
+        display: flat;
+        font-family:Verdana;
+	font-size:21px;
+	font-weight:bold;
+	padding:12px 70px;
+        margin-bottom: 20px;
+        
+	/*-moz-box-shadow: -2px 16px 14px -7px #582196;
+	-webkit-box-shadow: -2px 16px 14px -7px #582196;
+	box-shadow: -2px 16px 14px -7px #582196;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #8630b8), color-stop(1, #80368f));
+	background:-moz-linear-gradient(top, #8630b8 5%, #80368f 100%);
+	background:-webkit-linear-gradient(top, #8630b8 5%, #80368f 100%);
+	background:-o-linear-gradient(top, #8630b8 5%, #80368f 100%);
+	background:-ms-linear-gradient(top, #8630b8 5%, #80368f 100%);
+	background:linear-gradient(to bottom, #8630b8 5%, #80368f 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8630b8', endColorstr='#80368f',GradientType=0);
+	background-color:#8630b8;
+	-moz-border-radius:24px;
+	-webkit-border-radius:24px;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:21px;
+	font-weight:bold;
+	padding:22px 70px;
+	text-decoration:none;
+	text-shadow:-3px 6px 0px #523e8a;
+        margin-bottom: 25px;*/
+}
+/*.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #80368f), color-stop(1, #8630b8));
+	background:-moz-linear-gradient(top, #80368f 5%, #8630b8 100%);
+	background:-webkit-linear-gradient(top, #80368f 5%, #8630b8 100%);
+	background:-o-linear-gradient(top, #80368f 5%, #8630b8 100%);
+	background:-ms-linear-gradient(top, #80368f 5%, #8630b8 100%);
+	background:linear-gradient(to bottom, #80368f 5%, #8630b8 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80368f', endColorstr='#8630b8',GradientType=0);
+	background-color:#80368f;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}*/
+.Heading
+{   position: fixed;
+    width:100%;
+    background-color: #00a7d0;
+   
+}
+h2
+{
+    margin-top: 90px;
+    text-align: center;
+    font: Elephant;
+    font-weight: bold;
+    margin-top: 20px;
+    color:white;
+    font-size: 70px;
+}
+.search_user
+{
+    position: fixed;
+    top: 50%;
+    left: 35%;
+    width:70em;
+    height:5em;
+}
+.myButton1
+{
+        display: flat;
+        font-family:Verdana;
+	font-size:21px;
+	font-weight:bold;
+	padding:12px 58px;
+        margin-bottom: 20px;
+}
+.myButton2
+{
+        display: flat;
+        font-family:Verdana;
+	font-size:21px;
+	font-weight:bold;
+	padding:12px 78px;
+        margin-bottom: 20px;
+}
+p4
+{
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+    float: right;
+}
